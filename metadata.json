@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Field Service Data Processor",
+  "description": "An AI-powered tool to extract, process, and format field service data from images, generating data tables and customer notifications.",
+  "requestFramePermissions": []
+}
